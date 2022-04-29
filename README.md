@@ -10,7 +10,9 @@
 - :rainbow:[Axoll Draw Project](http://www.salleanthony.fr:6525/)
 - :paw_prints:[AHN Project](http://www.salleanthony.fr:6523/)
 
-💬 Feel free to ask me your questions and discuss with me on any subject.
+I am also learning to manage an Virtual Dedicated Server :floppy_disk: in a self-taught way to accommodate my projects.
+
+Feel free to ask me your questions and discuss with me on any subject. 💬
 
 📫 How to reach me: salleanthony3@gmail.com
 <!--
