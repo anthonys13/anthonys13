@@ -4,7 +4,7 @@
 
 :mortar_board: I am currently learning JavaScript with O'Clock School. After browsing Node.JS and its dependencies, I learn how to use React.js.
 
-:computer: Throughout the training I realized some projects. You can have an overview on my Git Hub, or with the link of my portfolio on my profile.
+:computer: Throughout the training I realized some projects. You can have an overview on my Git Hub, or with the link of my portfolio! Check my bio.
 
 Here are some fast links : 
 - :rainbow:[Axoll Draw Project](http://www.salleanthony.fr:6525/)
