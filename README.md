@@ -14,7 +14,9 @@ I am also learning to manage an Virtual Dedicated Server :floppy_disk: in a self
 
 Feel free to ask me your questions and discuss with me on any subject. 💬
 
-📫 How to reach me: salleanthony3@gmail.com
+📫 How to reach me: 
+- salleanthony3@gmail.com
+- https://www.linkedin.com/in/anthonysalle/
 <!--
 **anthonys13/anthonys13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
