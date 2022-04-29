@@ -1,8 +1,18 @@
 ### Hi there 👋
 
-- 🌱 I am currently learning JavaScript with O'Clock School. 
-     After browsing Node.JS and its dependencies, I learn how to use React.js symbole_atome
+:thought_balloon: My name is Anthony and im 28
 
+:mortar_board: I am currently learning JavaScript with O'Clock School. After browsing Node.JS and its dependencies, I learn how to use React.js.
+
+:computer: Throughout the training I realized some projects. You can have an overview on my Git Hub, or with the link of my portfolio on my profile.
+    Here are some fast links : 
+    
+- :rainbow:[Axoll Draw Project](http://www.salleanthony.fr:6525/)
+- :paw_prints:[AHN Project](http://www.salleanthony.fr:6523/)
+
+💬 Feel free to ask me your questions and discuss with me on any subject.
+
+📫 How to reach me: salleanthony3@gmail.com
 <!--
 **anthonys13/anthonys13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
