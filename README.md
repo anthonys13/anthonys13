@@ -9,6 +9,7 @@
 Here are some fast links : 
 - :rainbow:[Axoll Draw Project](http://www.salleanthony.fr:6525/)
 - :paw_prints:[AHN Project](http://www.salleanthony.fr:6523/)
+- :speech_balloon:[N0o' Project](https://noo-chat.netlify.app/)
 
 I am also learning to manage an Virtual Dedicated Server :floppy_disk: in a self-taught way to accommodate my projects.
 
