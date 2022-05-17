@@ -29,7 +29,7 @@ Feel free to ask me your questions and discuss with me on any subject. 💬
 ### 📫 How to reach me: 
 <p>salleanthony3@gmail.com</p>
 <p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anthonysalle/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anthonysalle/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/grunt_sass/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/grunt_sass/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anthonysalle/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anthonysalle/" height="30" width="40" /></a>
+<a href="https://instagram.com/grunt_sass/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/grunt_sass/" height="30" width="40" /></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anthonys13&" alt="anthonys13" /></p>
