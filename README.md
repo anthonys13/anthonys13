@@ -9,7 +9,7 @@
 Here are some fast links : 
 - :rainbow:[Axoll Draw Project](http://www.salleanthony.fr:6525/)
 - :paw_prints:[AHN Project](http://www.salleanthony.fr:6523/)
-- :speech_balloon:[Template site vitrine](http://www.salleanthony.fr:8082/)
+- :speech_balloon:[L'artiste](http://www.salleanthony.fr:8082/)
 
 I am also learning to manage an Virtual Dedicated Server :floppy_disk: in a self-taught way to accommodate my projects.
 
