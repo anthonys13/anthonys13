@@ -2,9 +2,9 @@
 
 :thought_balloon: My name is Anthony and im 28
 
-:mortar_board: I am currently learning JavaScript with O'Clock School. After browsing Node.JS and its dependencies, I learn how to use React.js.
+:mortar_board: I am currently working at Xelians Digital. I hold the position of Backend Developer on PHP and MYSQL technologies mainly. I also master JavaScript and Node.JS technologies as well as React.js.
 
-:computer: Throughout the training I realized some projects. You can have an overview on my Git Hub, or with the link of my portfolio! Check my bio.
+:computer: I realized some projects. You can have an overview on my Git Hub, or with the link of my portfolio! Check my bio.
 
 Here are some fast links : 
 - :rainbow:[Axoll Draw Project](http://www.salleanthony.fr:6525/)
