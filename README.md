@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:thought_balloon: My name is Anthony and im 28
+:thought_balloon: My name is Anthony and im 29
 
 :v: I am currently working at Xelians Digital. I hold the position of Backend Developer on PHP and MYSQL technologies mainly. I also master JavaScript and Node.JS technologies as well as React.js.
 
