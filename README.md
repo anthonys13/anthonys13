@@ -1,36 +1,36 @@
-### Hi there 👋
+### Hi there! 👋
 
-:thought_balloon: My name is Anthony and im 29
+:thought_balloon: My name is Anthony, and I'm 29 years old.
 
-:v: I am currently working at Xelians Digital. I hold the position of Backend Developer on PHP and MYSQL technologies mainly. I also master JavaScript and Node.JS technologies as well as React.js.
+:v: Currently, I am employed at Xelians Digital as a Backend Developer, primarily working with PHP and MYSQL technologies. I also have expertise in JavaScript, Node.js, and React.js.
 
-:computer: I realized some projects. You can have an overview on my Git Hub, or with the link of my portfolio! Check my bio.
+:computer: I have successfully completed several projects, which you can explore on my GitHub profile or through my portfolio. Feel free to check out my bio!
 
-Here are my portfolio : 
-- :rainbow:https://www.anthony-ms.com/
+Here's a link to my portfolio:
+- :rainbow: [Anthony's Portfolio](https://www.anthony-ms.com/)
 
-I am also learning to manage an Virtual Dedicated Server :floppy_disk: in a self-taught way to accommodate my projects.
+Additionally, I am self-taught and currently learning how to manage a Virtual Dedicated Server :floppy_disk: to host my projects.
 
-Feel free to ask me your questions and discuss with me on any subject. 💬
+If you have any questions or would like to engage in a discussion, please feel free to reach out. I'm open to talking about any subject! 💬
 
 ### Languages and Tools:
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="Materialize" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 </p>
 
 ### 📫 How to reach me: 
-<p>salleanthony3@gmail.com</p>
-<p>
-<a href="https://linkedin.com/in/anthonysalle/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anthonysalle/" height="30" width="40" /></a>
-<a href="https://instagram.com/grunt_sass/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/grunt_sass/" height="30" width="40" /></a>
+- Email: salleanthony3@gmail.com
+- LinkedIn: [linkedin.com/in/anthonysalle](https://linkedin.com/in/anthonysalle/)
+- Instagram: [instagram.com/grunt_sass](https://instagram.com/grunt_sass/)
 
+Feel free to connect with me through any of the above platforms!
