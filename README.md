@@ -6,9 +6,6 @@
 
 :computer: I have successfully completed several projects, which you can explore on my GitHub profile or through my portfolio. Feel free to check out my bio!
 
-Here's a link to my portfolio:
-- :rainbow: [Anthony's Portfolio](https://www.anthony-ms.com/)
-
 Additionally, I am self-taught and currently learning how to manage a Virtual Dedicated Server :floppy_disk: to host my projects.
 
 If you have any questions or would like to engage in a discussion, please feel free to reach out. I'm open to talking about any subject! 💬
