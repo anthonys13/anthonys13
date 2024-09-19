@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-:thought_balloon: My name is Anthony, and I'm 29 years old.
+:thought_balloon: My name is Anthony, and I'm 30 years old.
 
 :v: Currently, I am employed at Xelians Digital as a Backend Developer, primarily working with PHP and MYSQL technologies. I also have expertise in JavaScript, Node.js, and React.js.
 
