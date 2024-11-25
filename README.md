@@ -5,12 +5,14 @@ Hi there! 👋
 
 🌟 I have solid skills in:
 
-PHP and MySQL
-JavaScript and Node.js
-React.js, microservices, and building robust APIs
-Unity and C#, including network manipulation of objects
-Docker
-💻 I have successfully completed several projects, which you can explore on my GitHub profile or through my portfolio. Feel free to check them out!
+💻
+- PHP and MySQL
+- JavaScript
+- React.js and Node.js including microservices, and building robust APIs
+- Unity and C#, including network manipulation of objects
+- Docker
+
+I have successfully completed several projects, which you can explore on my GitHub profile or through my portfolio. Feel free to check them out!
 
 💾 As a self-taught developer, I have also learned how to manage a Virtual Dedicated Server to host my projects.
 
