@@ -1,14 +1,20 @@
-### Hi there! 👋
+Hi there! 👋
+💭 My name is Anthony, and I'm 30 years old.
 
-:thought_balloon: My name is Anthony, and I'm 30 years old.
+✌️ Currently, I am employed at Xelians Digital as a Backend Developer.
 
-:v: Currently, I am employed at Xelians Digital as a Backend Developer, primarily working with PHP and MYSQL technologies. I also have expertise in JavaScript, Node.js, and React.js.
+🌟 I have solid skills in:
 
-:computer: I have successfully completed several projects, which you can explore on my GitHub profile or through my portfolio. Feel free to check out my bio!
+PHP and MySQL
+JavaScript and Node.js
+React.js, microservices, and building robust APIs
+Unity and C#, including network manipulation of objects
+Docker
+💻 I have successfully completed several projects, which you can explore on my GitHub profile or through my portfolio. Feel free to check them out!
 
-Additionally, I am self-taught and currently learning how to manage a Virtual Dedicated Server :floppy_disk: to host my projects.
+💾 As a self-taught developer, I have also learned how to manage a Virtual Dedicated Server to host my projects.
 
-If you have any questions or would like to engage in a discussion, please feel free to reach out. I'm open to talking about any subject! 💬
+💬 If you have any questions or would like to engage in a discussion, please feel free to reach out. I'm open to talking about any subject!
 
 ### Languages and Tools:
 <p align="left">
