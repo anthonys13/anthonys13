@@ -34,7 +34,7 @@ I have successfully completed several projects, which you can explore on my GitH
 </p>
 
 ### 📫 How to reach me: 
-- Email: salleanthony3@gmail.com
+- Email: support-contact@indevo.fr
 - LinkedIn: [linkedin.com/in/anthonysalle](https://linkedin.com/in/anthonysalle/)
 - Instagram: [instagram.com/grunt_sass](https://instagram.com/grunt_sass/)
 
