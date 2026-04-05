@@ -1,16 +1,16 @@
 Hi there! 👋
 💭 My name is Anthony, and I'm 30 years old.
 
-✌️ Currently, I am employed at Xelians Digital as a Backend Developer.
+✌️ Currently, I am employed at Antibia as a Engineer Developer.
 
 🌟 I have solid skills in:
 
 💻
-- PHP and MySQL
-- JavaScript
-- React.js and Node.js including microservices, and building robust APIs
+- JS, PHP
+- NextJs and NestJs including microservices, and building robust APIs
 - Unity and C#, including network manipulation of objects
-- Docker
+- MySQL, MSSQL, PostgreSQL
+- Docker, Kubernete, CI/CD
 
 I have successfully completed several projects, which you can explore on my GitHub profile or through my portfolio. Feel free to check them out!
 
