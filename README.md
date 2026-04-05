@@ -6,8 +6,8 @@ Hi there! 👋
 🌟 I have solid skills in:
 
 💻
-- JS, PHP
-- NextJs and NestJs including microservices, and building robust APIs
+- JAVA, JS, PHP
+- Angular, NextJs and NestJs including microservices, and building robust APIs
 - Unity and C#, including network manipulation of objects
 - MySQL, MSSQL, PostgreSQL
 - Docker, Kubernete, CI/CD
